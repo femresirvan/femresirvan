@@ -9,7 +9,7 @@ Hi 😄, I'm Fırat Emre ŞİRVAN, a Fullstack developer and IoT Developer 🚀 
 
 - 😎 I’m currently partcipating in as much Hackathons as I can.
 - 👨🏽‍💻 I've been coding with node.js for a long time. 
-- 🌱 I’m currently learning React Native, Spring 💻
+- 🌱 I’m currently learning React, Spring 💻
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: femresirvan@gmail.com
 
