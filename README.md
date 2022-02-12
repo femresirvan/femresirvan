@@ -20,7 +20,7 @@ Hi 😄, I'm Fırat Emre ŞİRVAN, a Fullstack developer and IoT Developer 🚀 
 
 - Teknofest 2020 2nd Prize - [IEEE IoT](https://www.teknofest.org/yarisma-detaylar-11.html#v-pills-finalist)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=femresirvan)](https://github.com/femresirvan/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=femresirvan&rank=SSS,SS,S,AAA,AA,A,SECRET&theme=onedark)
 
 ![Femresirvan's github stats](https://github-readme-stats.vercel.app/api?username=femresirvan&show_icons=true&theme=gruvbox)
 
