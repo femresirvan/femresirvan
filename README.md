@@ -26,4 +26,4 @@ Hi 😄, I'm Fırat Emre ŞİRVAN, a Fullstack developer and IoT Developer 🚀 
 
 <!--![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)-->
 
-![Cem Yılmaz](https://thumbs.gfycat.com/BruisedBlankEagle-size_restricted.gif)
+![Cem Yılmaz](https://c.tenor.com/5iBPtqlFPv8AAAAd/cem-y%C4%B1lmaz.gif)
