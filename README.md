@@ -24,4 +24,6 @@ Hi 😄, I'm Fırat Emre ŞİRVAN, a Fullstack developer and IoT Developer 🚀 
 
 ![Femresirvan's github stats](https://github-readme-stats.vercel.app/api?username=femresirvan&show_icons=true&theme=gruvbox)
 
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+<!--![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)-->
+
+![Cem Yılmaz](https://thumbs.gfycat.com/BruisedBlankEagle-size_restricted.gif)
