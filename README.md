@@ -5,14 +5,14 @@ Hi 😄, I'm Fırat Emre ŞİRVAN, a Fullstack developer and IoT Developer 🚀 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=femresirvan" alt="femresirvan" /> </p> 
 
 **🚀 My Open Source Projects:**
-- [node.js starter template](https://github.com/femresirvan/node.js-starter-template)
-- [ChatApp](https://github.com/femresirvan/ChatApp)
-- [Charge Points](https://github.com/femresirvan/Charge-points-iot)
-- [MongoDB Dökümantasyon](https://github.com/femresirvan/MongoDB-Dokumantasyon)
-- [Weighted Playlist Generator](https://github.com/femresirvan/Weighted-Playlist-Generator)
-- [Vale Carpark Application (Backend)](https://github.com/Vale-Car-Park-Application/Web)
-- [MenuBoard](https://github.com/femresirvan/Menuboard)
-- [IEEE-IoT OYEUS](https://github.com/femresirvan/IEEE-IOT-OYEUS)
+- [node.js starter template](https://github.com/femresirvan/node.js-starter-template): Node.js rapid development template with docs.
+- [ChatApp](https://github.com/femresirvan/ChatApp): Responsive designed chat application with user system.
+- [Charge Points](https://github.com/femresirvan/Charge-points-iot) Map application that filters and monitors EV Charge Stations.
+- [MongoDB Dökümantasyon](https://github.com/femresirvan/MongoDB-Dokumantasyon) Turkish MongoDB documentation. (There is only aggregation at the moment.)
+- [Weighted Playlist Generator](https://github.com/femresirvan/Weighted-Playlist-Generator) Advertisement playlist generator by their weights.
+- [Vale Carpark Application (Backend)](https://github.com/Vale-Car-Park-Application/Web) Vale carpark application project. (Only backend side)
+- [MenuBoard](https://github.com/femresirvan/Menuboard) Simple frontend project that allows you see Restourant Menu.
+- [IEEE-IoT OYEUS](https://github.com/femresirvan/IEEE-IOT-OYEUS) Forest fire tracking IoT system. (Only backend and frontend side)
 
 [My Notes](https://github.com/femresirvan/my-notes)
 
