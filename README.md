@@ -4,8 +4,19 @@ Hi 😄, I'm Fırat Emre ŞİRVAN, a Fullstack developer and IoT Developer 🚀 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=femresirvan" alt="femresirvan" /> </p> 
 
-**My Projects:**
-- [My Notes](https://github.com/femresirvan/my-notes)
+**My Open Source Projects:**
+- [node.js starter template](https://github.com/femresirvan/node.js-starter-template)
+- [ChatApp](https://github.com/femresirvan/ChatApp)
+- [Charge Points](https://github.com/femresirvan/Charge-points-iot)
+- [MongoDB Dökümantasyon](https://github.com/femresirvan/MongoDB-Dokumantasyon)
+- [Weighted Playlist Generator](https://github.com/femresirvan/Weighted-Playlist-Generator)
+- [Vale Carpark Application (Backend)](https://github.com/Vale-Car-Park-Application/Web)
+- [MenuBoard](https://github.com/femresirvan/Menuboard)
+- [IEEE-IoT OYEUS](https://github.com/femresirvan/IEEE-IOT-OYEUS)
+
+[My Notes](https://github.com/femresirvan/my-notes)
+
+[Archive Projects](https://github.com/femresirvan/archive-projects)
 
 **Talking about Personal Stuffs:**
 
