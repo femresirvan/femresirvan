@@ -1,9 +1,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-femresirvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/femresirvan/)](https://www.linkedin.com/in/femresirvan/) 
 
 Hi 😄, I'm Fırat Emre ŞİRVAN, a Fullstack developer and IoT Developer 🚀 from Istanbul, Turkey.
-<!-- Currently, I'm a  Team Member 🙍🏽‍♂️ [@IoT-Club](https://jscoeiotclub.in/), Intern 👨🏽‍💻 [@Indihatt](https://indihatt.com/), Internee 👨🏽‍💼[@21ci](http://www.21ci.com/index.html) and a  Research Intern [@IntechOlympiad](https://portal.coepvlab.ac.in/InTechOlympiad/). Beside's Computer Science, I love photography.  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=femresirvan" alt="femresirvan" /> </p> 
+
+**My Projects:**
+- [My Notes](https://github.com/femresirvan/my-notes)
 
 **Talking about Personal Stuffs:**
 
