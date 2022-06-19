@@ -17,6 +17,8 @@ Hi 👋, I'm Fırat Emre ŞİRVAN, a Fullstack developer and (trying to be 😄)
 
 [My Notes](https://github.com/femresirvan/my-notes)
 
+[Java Notes](https://github.com/femresirvan/java-questions-answers)
+
 [Archive Projects](https://github.com/femresirvan/archive-projects)
 
 **Talking about Personal Stuffs:**
