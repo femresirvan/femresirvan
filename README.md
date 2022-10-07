@@ -7,7 +7,7 @@ Hi 👋, I'm Fırat Emre ŞİRVAN, a Fullstack developer and (trying to be 😄)
 **🚀 My Open Source Projects:**
 - [node.js starter template](https://github.com/femresirvan/node.js-starter-template): Node.js rapid development template with docs.
 - [ChatApp](https://github.com/femresirvan/ChatApp): Responsive designed chat application with user system.
-- [Charge Points](https://github.com/femresirvan/Charge-points-iot) Map application that filters and monitors EV Charge Stations.
+<!-- - [Charge Points](https://github.com/femresirvan/Charge-points-iot) Map application that filters and monitors EV Charge Stations. -->
 - [MongoDB Dökümantasyon](https://github.com/femresirvan/MongoDB-Dokumantasyon) Turkish MongoDB documentation. (There is only aggregation at the moment.)
 - [Weighted Playlist Generator](https://github.com/femresirvan/Weighted-Playlist-Generator) Advertisement playlist generator by their weights.
 - [Vale Carpark Application (Backend)](https://github.com/Vale-Car-Park-Application/Web) Vale carpark application project. (Only backend side)
@@ -42,4 +42,4 @@ Hi 👋, I'm Fırat Emre ŞİRVAN, a Fullstack developer and (trying to be 😄)
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
-<!-- ![Cem Yılmaz](https://c.tenor.com/5iBPtqlFPv8AAAAd/cem-y%C4%B1lmaz.gif) -->
+![Cem Yılmaz](https://c.tenor.com/5iBPtqlFPv8AAAAd/cem-y%C4%B1lmaz.gif)
