@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-femresirvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/femresirvan/)](https://www.linkedin.com/in/femresirvan/) 
 
-Hi 👋, I'm Fırat Emre ŞİRVAN, a Fullstack developer and (trying to be 😄) DevOps Engineer from Istanbul, Turkey.
+Hi 👋, I'm Fırat Emre ŞİRVAN, a Fullstack developer from Istanbul, Turkey.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=femresirvan" alt="femresirvan" /> </p> 
 
